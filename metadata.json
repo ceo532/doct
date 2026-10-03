@@ -1,0 +1,6 @@
+{
+  "name": "Luyện Thi Vào 10 - Tuần 4: Ôn tập 4 thì cho ngôi I",
+  "description": "Bài tập trắc nghiệm tiếng Anh ôn tập 4 thì (Hiện tại và Quá khứ) cho ngôi I dành cho học sinh lớp 9.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
